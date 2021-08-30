@@ -1,0 +1,18 @@
+{
+    "name": "mytest/test",
+    "description": "opisanie",
+    "type": "project",
+    "license": "asd",
+    "autoload": {
+        "psr-4": {
+            "Mytest\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "greylight2",
+            "email": "ya-vam-ne@mail.ru"
+        }
+    ],
+    "require": {}
+}
